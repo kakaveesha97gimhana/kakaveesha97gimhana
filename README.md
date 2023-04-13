@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakaveesha97gimhana" alt="kakaveesha97gimhana" /></a> </p>
 
+📝 I regulary write articles on https://medium.com/@kaveeshagimhana97
+
+💬 Ask me about React.js, Node.js, Express.js, JavaScript, React Native
+
 - 🔭 I’m currently working on **student**
 
 - 🌱 I’m currently learning **New innovations**
