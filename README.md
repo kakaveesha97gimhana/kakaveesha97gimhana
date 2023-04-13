@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm kaveesha Gimhana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align=>Hi 👋, I'm kaveesha Gimhana</h1>
+<h3 align=>A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakaveesha97gimhana&label=Profile%20views&color=0e75b6&style=flat" alt="kakaveesha97gimhana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakaveesha97gimhana" alt="kakaveesha97gimhana" /></a> </p>
 
-📝 I regulary write articles on https://medium.com/@kaveeshagimhana97
+📝 I regulary write articles on **https://medium.com/@kaveeshagimhana97**
 
-💬 Ask me about React.js, Node.js, Express.js, JavaScript, React Native
+💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🔭 I’m currently working on **student**
+- 🔭 I’m currently working on **trainee**
 
 - 🌱 I’m currently learning **New innovations**
 
-- 👯 I’m looking to collaborate on **learning**
+- 👯 I’m looking to collaborate on **self learning**
 
 - 🤝 I’m looking for help with **innovations**
 
-📫 How to reach me kaveeshagimhana97@gmail.com
+📫 How to reach me **kaveeshagimhana97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
